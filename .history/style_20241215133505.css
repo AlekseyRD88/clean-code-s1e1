@@ -1,5 +1,5 @@
 /* Basic Style */
-body {
+.page {
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -13,7 +13,7 @@ body {
 .header img {
   width: 100%;
 }
-.header .more-info {
+.header .more-inf {
   font-family: fantasy, cursive;
 }
 @media (max-width:768px) {
