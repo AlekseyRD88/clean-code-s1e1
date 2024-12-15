@@ -69,6 +69,7 @@ h3,
   margin: 0;
   text-transform: uppercase;
 }
+/*input[type="text"]*/
 .text-input {
   margin: 0;
   font-size: 18px;
@@ -113,6 +114,7 @@ li > input[type="checkbox"] {
   font-size: 18px;
   width: 226px;
 }
+/*li >    input[type="text"]*/
 .text-input {
   width: 226px
 }
